@@ -2,7 +2,9 @@
 import requests
 
 #Creds TO CHANGE
+#Lol API Key
 api_key = 'TOCHANGE'
+#GoogleSheet ID (find in url between /d/ and /edit)
 document_id = 'TOCHANGE'
 summoner_name = 'TOCHANGE'
 
